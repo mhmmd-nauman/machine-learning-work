@@ -159,12 +159,12 @@
                  h="74.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-125.500000"
-                 y="30.000000"
+        <marking x="-108.000000"
+                 y="102.000000"
                  hidden="false">
           <snap snap_id="0"
-                anchor.horizontal="2"
-                anchor.vertical="3"/>
+                anchor.horizontal="3"
+                anchor.vertical="2"/>
         </marking>
         <type id="ID1412415161">
           <posattr x="-336.000000"
@@ -180,9 +180,9 @@
           <text tool="CPN Tools"
                 version="4.0.1">CANDIDATE</text>
         </type>
-        <initmark id="ID1412676818">
-          <posattr x="-454.000000"
-                   y="526.000000"/>
+        <initmark id="ID1412678277">
+          <posattr x="-524.500000"
+                   y="55.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -192,106 +192,53 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`(1,824,0,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(2,957,80,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(3,795,54,&quot;BWP&quot;,&quot;No&quot;)++
-1`(4,785,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(5,596,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(6,804,43,&quot;BWP&quot;,&quot;No&quot;)++
-1`(7,714,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(8,719,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(9,811,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(10,926,81,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(11,754,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(12,663,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(13,724,44,&quot;BWP&quot;,&quot;No&quot;)++
-1`(14,612,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(15,872,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(16,635,40,&quot;BWP&quot;,&quot;No&quot;)++
-1`(17,766,44,&quot;BWP&quot;,&quot;No&quot;)++
-1`(18,831,49,&quot;BWP&quot;,&quot;No&quot;)++
-1`(19,648,51,&quot;BWP&quot;,&quot;No&quot;)++
-1`(20,868,63,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(21,912,49,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(22,834,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(23,829,64,&quot;BWP&quot;,&quot;No&quot;)++
-1`(24,866,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(25,775,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(26,643,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(27,652,53,&quot;BWP&quot;,&quot;No&quot;)++
-1`(28,822,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(29,715,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(30,799,41,&quot;BWP&quot;,&quot;No&quot;)++
-1`(31,795,59,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(32,561,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(33,869,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(34,705,43,&quot;BWP&quot;,&quot;No&quot;)++
-1`(35,773,42,&quot;BWP&quot;,&quot;No&quot;)++
-1`(36,828,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(37,680,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(38,523,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(39,771,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(40,720,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(41,585,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(42,664,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(43,698,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(44,621,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(45,706,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(46,849,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(47,930,78,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(48,658,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(49,562,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(50,626,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(51,836,68,&quot;BWP&quot;,&quot;No&quot;)++
-1`(52,881,57,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(53,829,58,&quot;BWP&quot;,&quot;No&quot;)++
-1`(54,847,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(55,766,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(56,938,0,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(57,616,31,&quot;BWP&quot;,&quot;No&quot;)++
-1`(58,888,63,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(59,753,57,&quot;BWP&quot;,&quot;No&quot;)++
-1`(60,968,67,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(61,687,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(62,769,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(63,745,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(64,715,42,&quot;BWP&quot;,&quot;No&quot;)++
-1`(65,680,59,&quot;BWP&quot;,&quot;No&quot;)++
-1`(66,596,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(67,703,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(68,639,53,&quot;BWP&quot;,&quot;No&quot;)++
-1`(69,851,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(70,680,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(71,876,0,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(72,683,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(73,783,53,&quot;BWP&quot;,&quot;No&quot;)++
-1`(74,726,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(75,842,68,&quot;BWP&quot;,&quot;No&quot;)++
-1`(76,777,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(77,776,32,&quot;BWP&quot;,&quot;No&quot;)++
-1`(78,854,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(79,753,34,&quot;BWP&quot;,&quot;No&quot;)++
-1`(80,664,40,&quot;BWP&quot;,&quot;No&quot;)++
-1`(81,719,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(82,525,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(83,943,79,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(84,746,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(85,826,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(86,823,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(87,857,42,&quot;BWP&quot;,&quot;No&quot;)++
-1`(88,681,43,&quot;BWP&quot;,&quot;No&quot;)++
-1`(89,793,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(90,771,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(91,792,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(92,772,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(93,821,41,&quot;BWP&quot;,&quot;No&quot;)++
-1`(94,776,53,&quot;BWP&quot;,&quot;No&quot;)++
-1`(95,754,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(96,757,51,&quot;BWP&quot;,&quot;No&quot;)++
-1`(97,678,44,&quot;BWP&quot;,&quot;No&quot;)++
-1`(98,496,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(99,743,36,&quot;BWP&quot;,&quot;No&quot;)++
-1`(100,752,41,&quot;BWP&quot;,&quot;No&quot;)</text>
+                version="4.0.1">1`(601,825,50,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(602,754,46,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(603,516,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(604,905,52,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(605,609,57,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(606,825,69,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(607,905,52,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(609,862,69,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(610,861,49,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(611,899,59,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(613,830,54,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(614,808,56,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(615,891,73,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(616,753,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(617,779,43,&quot;BWP&quot;,&quot;No&quot;)++
+1`(618,889,69,&quot;BWP&quot;,&quot;No&quot;)++
+1`(619,529,44,&quot;BWP&quot;,&quot;No&quot;)++
+1`(620,635,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(621,867,66,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(622,569,48,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(623,731,0,&quot;BWP&quot;,&quot;No&quot;)++
+1`(624,725,44,&quot;BWP&quot;,&quot;No&quot;)++
+1`(625,716,0,&quot;BWP&quot;,&quot;No&quot;)++
+1`(626,646,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(627,694,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(628,881,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(629,914,73,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(630,884,48,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(631,749,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(632,597,0,&quot;BWP&quot;,&quot;No&quot;)++
+1`(633,655,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(634,826,39,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(635,847,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(636,776,43,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(637,798,65,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(638,608,42,&quot;BWP&quot;,&quot;No&quot;)++
+1`(639,678,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(640,737,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(641,718,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(642,837,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(643,763,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(644,771,41,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(645,708,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(646,793,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(647,818,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(648,801,71,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(649,590,0,&quot;OPEN&quot;,&quot;No&quot;)</text>
         </initmark>
       </place>
       <place id="ID1412440080">
@@ -362,8 +309,8 @@
                  h="76.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-11.000000"
-                 y="-154.000000"
+        <marking x="0.000000"
+                 y="-135.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="1"
@@ -1586,17 +1533,12 @@
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
+      <option name="extensions.10005.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
       <option name="extensions.10006.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
-      <option name="extensions.10003.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
-      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1606,7 +1548,12 @@
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10005.enable">
+      <option name="extensions.10001.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
+      <option name="extensions.10003.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1809,14 +1756,14 @@
     </options>
     <binders>
       <cpnbinder id="ID1412671820"
-                 x="153"
-                 y="59"
+                 x="488"
+                 y="44"
                  width="1016"
                  height="601">
         <sheets>
           <cpnsheet id="ID2215"
-                    panx="-106.000000"
-                    pany="-164.000000"
+                    panx="-660.000000"
+                    pany="-375.000000"
                     zoom="1.000000"
                     instance="ID2149">
             <zorder>

@@ -159,8 +159,8 @@
                  h="74.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-125.500000"
-                 y="30.000000"
+        <marking x="-118.500000"
+                 y="60.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="2"
@@ -180,9 +180,9 @@
           <text tool="CPN Tools"
                 version="4.0.1">CANDIDATE</text>
         </type>
-        <initmark id="ID1412676818">
-          <posattr x="-454.000000"
-                   y="526.000000"/>
+        <initmark id="ID1412677810">
+          <posattr x="-476.000000"
+                   y="500.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -247,7 +247,6 @@
 1`(53,829,58,&quot;BWP&quot;,&quot;No&quot;)++
 1`(54,847,0,&quot;BWP&quot;,&quot;No&quot;)++
 1`(55,766,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(56,938,0,&quot;BWP&quot;,&quot;Yes&quot;)++
 1`(57,616,31,&quot;BWP&quot;,&quot;No&quot;)++
 1`(58,888,63,&quot;BWP&quot;,&quot;Yes&quot;)++
 1`(59,753,57,&quot;BWP&quot;,&quot;No&quot;)++
@@ -262,7 +261,6 @@
 1`(68,639,53,&quot;BWP&quot;,&quot;No&quot;)++
 1`(69,851,48,&quot;BWP&quot;,&quot;No&quot;)++
 1`(70,680,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(71,876,0,&quot;BWP&quot;,&quot;Yes&quot;)++
 1`(72,683,50,&quot;BWP&quot;,&quot;No&quot;)++
 1`(73,783,53,&quot;BWP&quot;,&quot;No&quot;)++
 1`(74,726,0,&quot;BWP&quot;,&quot;No&quot;)++
@@ -362,8 +360,8 @@
                  h="76.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-11.000000"
-                 y="-154.000000"
+        <marking x="-3.000000"
+                 y="84.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="1"
@@ -1586,12 +1584,12 @@
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
-      <option name="extensions.10006.enable">
+      <option name="extensions.10003.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10003.enable">
+      <option name="extensions.10005.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1601,12 +1599,12 @@
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10002.enable">
+      <option name="extensions.10006.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10005.enable">
+      <option name="extensions.10002.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1809,14 +1807,14 @@
     </options>
     <binders>
       <cpnbinder id="ID1412671820"
-                 x="153"
-                 y="59"
+                 x="299"
+                 y="55"
                  width="1016"
                  height="601">
         <sheets>
           <cpnsheet id="ID2215"
-                    panx="-106.000000"
-                    pany="-164.000000"
+                    panx="-761.000000"
+                    pany="-241.000000"
                     zoom="1.000000"
                     instance="ID2149">
             <zorder>
@@ -1895,9 +1893,7 @@
           <IndexNode expanded="false"/>
         </IndexNode>
       </IndexNode>
-      <IndexNode expanded="false">
-        <IndexNode expanded="false"/>
-      </IndexNode>
+      <IndexNode expanded="false"/>
       <IndexNode expanded="true">
         <IndexNode expanded="false">
           <IndexNode expanded="true"/>
