@@ -159,8 +159,8 @@
                  h="74.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-94.500000"
-                 y="55.000000"
+        <marking x="-38.500000"
+                 y="77.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="3"
@@ -180,9 +180,9 @@
           <text tool="CPN Tools"
                 version="4.0.1">CANDIDATE</text>
         </type>
-        <initmark id="ID1412678778">
-          <posattr x="-482.500000"
-                   y="393.000000"/>
+        <initmark id="ID1412713435">
+          <posattr x="-514.500000"
+                   y="556.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -291,7 +291,29 @@
 1`(97,715,40,&quot;OPEN&quot;,&quot;No&quot;)++
 1`(98,815,53,&quot;OPEN&quot;,&quot;No&quot;)++
 1`(99,856,52,&quot;OPEN&quot;,&quot;Yes&quot;)++
-1`(100,841,62,&quot;OPEN&quot;,&quot;Yes&quot;)</text>
+1`(100,841,62,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(101,849,53,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(102,905,59,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(103,852,44,&quot;BWP&quot;,&quot;Yes&quot;)++
+1`(104,765,60,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(105,825,51,&quot;BWP&quot;,&quot;No&quot;)++
+1`(106,913,62,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(107,791,59,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(108,772,40,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(109,920,57,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(110,951,55,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(111,888,66,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(112,838,61,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(113,860,61,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(114,925,67,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(115,773,65,&quot;BWP&quot;,&quot;No&quot;)++
+1`(116,857,57,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(117,865,69,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(118,1018,49,&quot;BWP&quot;,&quot;Yes&quot;)++
+1`(119,835,62,&quot;BWP&quot;,&quot;Yes&quot;)++
+1`(120,853,57,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(121,772,57,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(122,809,68,&quot;OPEN&quot;,&quot;Yes&quot;)</text>
         </initmark>
       </place>
       <place id="ID1412440080">
@@ -310,11 +332,11 @@
                  h="76.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="61.500000"
-                 y="87.000000"
+        <marking x="-1.000000"
+                 y="0.000000"
                  hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="3"
+          <snap snap_id="2"
+                anchor.horizontal="1"
                 anchor.vertical="3"/>
         </marking>
         <type id="ID1412440081">
@@ -362,8 +384,8 @@
                  h="76.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="24.000000"
-                 y="-55.000000"
+        <marking x="234.000000"
+                 y="38.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="1"
@@ -400,8 +422,8 @@
       </place>
       <trans id="ID1412415174"
              explicit="false">
-        <posattr x="53.000000"
-                 y="84.000000"/>
+        <posattr x="27.000000"
+                 y="150.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -416,8 +438,8 @@
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412425471">
-          <posattr x="53.000000"
-                   y="116.000000"/>
+          <posattr x="27.000000"
+                   y="182.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -430,8 +452,8 @@
                 version="4.0.1">[fsc&gt;=900,nts&gt;=40]</text>
         </cond>
         <time id="ID1412415176">
-          <posattr x="112.500000"
-                   y="116.000000"/>
+          <posattr x="86.500000"
+                   y="182.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -444,8 +466,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412415177">
-          <posattr x="132.500000"
-                   y="31.000000"/>
+          <posattr x="106.500000"
+                   y="97.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -458,8 +480,8 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412415179">
-          <posattr x="-30.000000"
-                   y="52.000000"/>
+          <posattr x="-56.000000"
+                   y="118.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -474,8 +496,8 @@
       </trans>
       <trans id="ID1412450695"
              explicit="false">
-        <posattr x="42.000000"
-                 y="-113.000000"/>
+        <posattr x="27.000000"
+                 y="-336.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -490,8 +512,8 @@
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412450696">
-          <posattr x="43.000000"
-                   y="-70.000000"/>
+          <posattr x="28.000000"
+                   y="-293.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -501,11 +523,11 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">[fsc&gt;=810,nts&gt;=60,dom=&quot;BWP&quot;]</text>
+                version="4.0.1">[fsc&gt;=800,nts&gt;=55,dom=&quot;BWP&quot;]</text>
         </cond>
         <time id="ID1412450697">
-          <posattr x="99.500000"
-                   y="-82.000000"/>
+          <posattr x="84.500000"
+                   y="-305.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -518,8 +540,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412450698">
-          <posattr x="119.500000"
-                   y="-165.000000"/>
+          <posattr x="104.500000"
+                   y="-388.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -532,8 +554,8 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412450700">
-          <posattr x="-39.000000"
-                   y="-144.000000"/>
+          <posattr x="-54.000000"
+                   y="-367.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -548,8 +570,8 @@
       </trans>
       <trans id="ID1412469265"
              explicit="false">
-        <posattr x="42.000000"
-                 y="-391.000000"/>
+        <posattr x="56.000000"
+                 y="-521.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -564,8 +586,8 @@
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412469266">
-          <posattr x="32.000000"
-                   y="-354.000000"/>
+          <posattr x="46.000000"
+                   y="-484.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -575,11 +597,11 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">[fsc&lt;=860,nts&lt;=55,dom=&quot;OPEN&quot;]</text>
+                version="4.0.1">[fsc&lt;=900,nts&lt;=65,dom=&quot;OPEN&quot;]</text>
         </cond>
         <time id="ID1412469267">
-          <posattr x="104.500000"
-                   y="-360.000000"/>
+          <posattr x="118.500000"
+                   y="-490.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -592,8 +614,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412469268">
-          <posattr x="124.500000"
-                   y="-443.000000"/>
+          <posattr x="138.500000"
+                   y="-573.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -606,8 +628,8 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412469270">
-          <posattr x="-44.000000"
-                   y="-422.000000"/>
+          <posattr x="-30.000000"
+                   y="-552.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -622,8 +644,8 @@
       </trans>
       <trans id="ID1412647444"
              explicit="false">
-        <posattr x="42.000000"
-                 y="-478.000000"/>
+        <posattr x="54.000000"
+                 y="-611.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -638,8 +660,8 @@
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412647445">
-          <posattr x="42.000000"
-                   y="-430.000000"/>
+          <posattr x="54.000000"
+                   y="-563.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -652,8 +674,8 @@
                 version="4.0.1">[nts&lt;=40]</text>
         </cond>
         <time id="ID1412647446">
-          <posattr x="104.500000"
-                   y="-447.000000"/>
+          <posattr x="116.500000"
+                   y="-580.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -666,8 +688,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412647447">
-          <posattr x="124.500000"
-                   y="-530.000000"/>
+          <posattr x="136.500000"
+                   y="-663.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -680,8 +702,8 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412647449">
-          <posattr x="-44.000000"
-                   y="-509.000000"/>
+          <posattr x="-32.000000"
+                   y="-642.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -697,7 +719,7 @@
       <trans id="ID1412650800"
              explicit="false">
         <posattr x="42.000000"
-                 y="-306.000000"/>
+                 y="-420.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -713,7 +735,7 @@
                  y="-3.000000"/>
         <cond id="ID1412650801">
           <posattr x="42.000000"
-                   y="-275.000000"/>
+                   y="-389.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -723,11 +745,11 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">[fsc&lt;=830,nts&lt;=65,dom=&quot;BWP&quot;]</text>
+                version="4.0.1">[fsc&lt;=830,nts&lt;=70,dom=&quot;BWP&quot;]</text>
         </cond>
         <time id="ID1412650802">
           <posattr x="104.500000"
-                   y="-275.000000"/>
+                   y="-389.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -741,7 +763,7 @@
         </time>
         <code id="ID1412650803">
           <posattr x="124.500000"
-                   y="-358.000000"/>
+                   y="-472.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -755,7 +777,7 @@
         </code>
         <priority id="ID1412650805">
           <posattr x="-44.000000"
-                   y="-337.000000"/>
+                   y="-451.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -770,8 +792,8 @@
       </trans>
       <trans id="ID1412655448"
              explicit="false">
-        <posattr x="42.000000"
-                 y="-15.000000"/>
+        <posattr x="30.000000"
+                 y="18.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -782,12 +804,12 @@
                   bold="false"/>
         <text>Rule2</text>
         <box w="86.000000"
-             h="40.000000"/>
+             h="38.000000"/>
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412655449">
-          <posattr x="42.000000"
-                   y="16.000000"/>
+          <posattr x="30.000000"
+                   y="48.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -800,8 +822,8 @@
                 version="4.0.1">[fsc&gt;=860,nts&gt;=65]</text>
         </cond>
         <time id="ID1412655450">
-          <posattr x="99.500000"
-                   y="16.000000"/>
+          <posattr x="87.500000"
+                   y="48.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -814,8 +836,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412655451">
-          <posattr x="119.500000"
-                   y="-67.000000"/>
+          <posattr x="107.500000"
+                   y="-33.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -828,8 +850,8 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412655453">
-          <posattr x="-39.000000"
-                   y="-46.000000"/>
+          <posattr x="-51.000000"
+                   y="-12.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -844,8 +866,8 @@
       </trans>
       <trans id="ID1412684107"
              explicit="false">
-        <posattr x="42.000000"
-                 y="-189.000000"/>
+        <posattr x="27.000000"
+                 y="-252.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -860,8 +882,8 @@
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1412684108">
-          <posattr x="50.000000"
-                   y="-149.000000"/>
+          <posattr x="35.000000"
+                   y="-212.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -871,11 +893,11 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">[fsc&gt;=820,nts&gt;=40,dom=&quot;BWP&quot;]</text>
+                version="4.0.1">[fsc&gt;=830,nts&gt;=50,dom=&quot;BWP&quot;]</text>
         </cond>
         <time id="ID1412684109">
-          <posattr x="99.500000"
-                   y="-158.000000"/>
+          <posattr x="84.500000"
+                   y="-221.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -888,8 +910,8 @@
                 version="4.0.1"/>
         </time>
         <code id="ID1412684110">
-          <posattr x="119.500000"
-                   y="-241.000000"/>
+          <posattr x="104.500000"
+                   y="-304.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -902,8 +924,82 @@
                 version="4.0.1"/>
         </code>
         <priority id="ID1412684112">
-          <posattr x="-39.000000"
-                   y="-220.000000"/>
+          <posattr x="-54.000000"
+                   y="-283.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1"/>
+        </priority>
+      </trans>
+      <trans id="ID1412724088"
+             explicit="false">
+        <posattr x="21.000000"
+                 y="-151.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <text>Rule2</text>
+        <box w="86.000000"
+             h="40.000000"/>
+        <binding x="7.200000"
+                 y="-3.000000"/>
+        <cond id="ID1412724089">
+          <posattr x="29.000000"
+                   y="-111.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">[fsc&gt;=850,nts&gt;=45,dom=&quot;BWP&quot;]</text>
+        </cond>
+        <time id="ID1412724090">
+          <posattr x="78.500000"
+                   y="-120.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1"/>
+        </time>
+        <code id="ID1412724091">
+          <posattr x="98.500000"
+                   y="-203.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1"/>
+        </code>
+        <priority id="ID1412724093">
+          <posattr x="-60.000000"
+                   y="-182.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -947,8 +1043,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412430705">
-          <posattr x="-87.000000"
-                   y="73.000000"/>
+          <posattr x="-91.000000"
+                   y="81.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -992,8 +1088,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412441253">
-          <posattr x="164.000000"
-                   y="92.000000"/>
+          <posattr x="161.000000"
+                   y="135.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1023,10 +1119,10 @@
                    currentcyckle="2"/>
         <transend idref="ID1412450695"/>
         <placeend idref="ID1412415160"/>
-        <bendpoint id="ID1412457481"
+        <bendpoint id="ID1412716358"
                    serial="1">
-          <posattr x="-126.000000"
-                   y="-113.000000"/>
+          <posattr x="-225.000000"
+                   y="-322.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1037,8 +1133,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412456979">
-          <posattr x="-99.000000"
-                   y="-102.000000"/>
+          <posattr x="-180.000000"
+                   y="-311.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1068,10 +1164,23 @@
                    currentcyckle="2"/>
         <transend idref="ID1412450695"/>
         <placeend idref="ID1412440080"/>
-        <bendpoint id="ID1412677296"
+        <bendpoint id="ID1412715219"
                    serial="1">
           <posattr x="378.000000"
-                   y="-113.000000"/>
+                   y="-324.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
+        <bendpoint id="ID1412677296"
+                   serial="2">
+          <posattr x="405.000000"
+                   y="-168.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1082,8 +1191,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412458493">
-          <posattr x="215.000000"
-                   y="-102.000000"/>
+          <posattr x="207.000000"
+                   y="-313.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1113,10 +1222,10 @@
                    currentcyckle="2"/>
         <transend idref="ID1412469265"/>
         <placeend idref="ID1412415160"/>
-        <bendpoint id="ID1412650497"
+        <bendpoint id="ID1412718497"
                    serial="1">
-          <posattr x="-225.000000"
-                   y="-391.000000"/>
+          <posattr x="-252.000000"
+                   y="-532.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1127,8 +1236,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412470993">
-          <posattr x="-108.000000"
-                   y="-380.000000"/>
+          <posattr x="-114.000000"
+                   y="-521.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1158,10 +1267,10 @@
                    currentcyckle="2"/>
         <transend idref="ID1412469265"/>
         <placeend idref="ID1412472155"/>
-        <bendpoint id="ID1412654261"
+        <bendpoint id="ID1412718835"
                    serial="1">
-          <posattr x="252.000000"
-                   y="-391.000000"/>
+          <posattr x="395.000000"
+                   y="-504.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1173,8 +1282,8 @@
         </bendpoint>
         <bendpoint id="ID1412650536"
                    serial="2">
-          <posattr x="304.000000"
-                   y="-319.000000"/>
+          <posattr x="431.000000"
+                   y="-407.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1185,8 +1294,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412472746">
-          <posattr x="170.000000"
-                   y="-380.000000"/>
+          <posattr x="247.000000"
+                   y="-493.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1218,8 +1327,8 @@
         <placeend idref="ID1412415160"/>
         <bendpoint id="ID1412648068"
                    serial="1">
-          <posattr x="-252.000000"
-                   y="-478.000000"/>
+          <posattr x="-273.000000"
+                   y="-611.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1230,8 +1339,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412647861">
-          <posattr x="-130.000000"
-                   y="-467.000000"/>
+          <posattr x="-135.000000"
+                   y="-600.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1263,8 +1372,8 @@
         <placeend idref="ID1412472155"/>
         <bendpoint id="ID1412650578"
                    serial="1">
-          <posattr x="304.000000"
-                   y="-478.000000"/>
+          <posattr x="420.000000"
+                   y="-611.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1275,8 +1384,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412649595">
-          <posattr x="197.000000"
-                   y="-467.000000"/>
+          <posattr x="262.000000"
+                   y="-600.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1308,8 +1417,8 @@
         <placeend idref="ID1412415160"/>
         <bendpoint id="ID1412650937"
                    serial="1">
-          <posattr x="-210.000000"
-                   y="-318.000000"/>
+          <posattr x="-252.000000"
+                   y="-420.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1320,8 +1429,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412650876">
-          <posattr x="-101.000000"
-                   y="-307.000000"/>
+          <posattr x="-121.000000"
+                   y="-409.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1353,8 +1462,8 @@
         <placeend idref="ID1412472155"/>
         <bendpoint id="ID1412651221"
                    serial="1">
-          <posattr x="229.000000"
-                   y="-306.000000"/>
+          <posattr x="317.000000"
+                   y="-420.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1365,8 +1474,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412651148">
-          <posattr x="159.000000"
-                   y="-295.000000"/>
+          <posattr x="202.000000"
+                   y="-409.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1410,8 +1519,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412655827">
-          <posattr x="-105.000000"
-                   y="-4.000000"/>
+          <posattr x="-113.000000"
+                   y="17.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1441,9 +1550,9 @@
                    currentcyckle="2"/>
         <transend idref="ID1412655448"/>
         <placeend idref="ID1412440080"/>
-        <bendpoint id="ID1412658447"
+        <bendpoint id="ID1412722631"
                    serial="1">
-          <posattr x="252.000000"
+          <posattr x="320.000000"
                    y="-15.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -1455,8 +1564,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412657800">
-          <posattr x="159.000000"
-                   y="-4.000000"/>
+          <posattr x="185.000000"
+                   y="19.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1488,8 +1597,8 @@
         <placeend idref="ID1412415160"/>
         <bendpoint id="ID1412685007"
                    serial="1">
-          <posattr x="-195.000000"
-                   y="-189.000000"/>
+          <posattr x="-235.000000"
+                   y="-252.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1500,8 +1609,8 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412684823">
-          <posattr x="-153.000000"
-                   y="-178.000000"/>
+          <posattr x="-188.000000"
+                   y="-241.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1531,10 +1640,10 @@
                    currentcyckle="2"/>
         <transend idref="ID1412684107"/>
         <placeend idref="ID1412440080"/>
-        <bendpoint id="ID1412686178"
+        <bendpoint id="ID1412721313"
                    serial="1">
-          <posattr x="378.000000"
-                   y="-189.000000"/>
+          <posattr x="336.000000"
+                   y="-252.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1545,8 +1654,85 @@
                     bold="false"/>
         </bendpoint>
         <annot id="ID1412685974">
-          <posattr x="215.000000"
-                   y="-178.000000"/>
+          <posattr x="188.000000"
+                   y="-241.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">(sr,fsc,nts,dom,label)</text>
+        </annot>
+      </arc>
+      <arc id="ID1412724859"
+           orientation="PtoT"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412724088"/>
+        <placeend idref="ID1412415160"/>
+        <annot id="ID1412724860">
+          <posattr x="-237.000000"
+                   y="-148.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">(sr,fsc,nts,dom,label)</text>
+        </annot>
+      </arc>
+      <arc id="ID1412725130"
+           orientation="TtoP"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412724088"/>
+        <placeend idref="ID1412440080"/>
+        <bendpoint id="ID1412725655"
+                   serial="1">
+          <posattr x="317.000000"
+                   y="-151.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
+        <annot id="ID1412725131">
+          <posattr x="176.000000"
+                   y="-139.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1586,7 +1772,7 @@
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
-      <option name="extensions.10005.enable">
+      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1596,17 +1782,17 @@
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10006.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
       <option name="extensions.10003.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10001.enable">
+      <option name="extensions.10005.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
+      <option name="extensions.10006.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1815,8 +2001,8 @@
                  height="601">
         <sheets>
           <cpnsheet id="ID2215"
-                    panx="-852.000000"
-                    pany="-347.000000"
+                    panx="-99.000000"
+                    pany="-115.000000"
                     zoom="1.000000"
                     instance="ID2149">
             <zorder>
@@ -1895,9 +2081,7 @@
           <IndexNode expanded="false"/>
         </IndexNode>
       </IndexNode>
-      <IndexNode expanded="false">
-        <IndexNode expanded="false"/>
-      </IndexNode>
+      <IndexNode expanded="false"/>
       <IndexNode expanded="true">
         <IndexNode expanded="false">
           <IndexNode expanded="true"/>
