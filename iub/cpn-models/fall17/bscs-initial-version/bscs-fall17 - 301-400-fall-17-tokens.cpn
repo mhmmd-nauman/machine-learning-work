@@ -159,12 +159,12 @@
                  h="74.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-146.000000"
-                 y="87.000000"
+        <marking x="-87.000000"
+                 y="-11.000000"
                  hidden="false">
           <snap snap_id="0"
                 anchor.horizontal="2"
-                anchor.vertical="3"/>
+                anchor.vertical="2"/>
         </marking>
         <type id="ID1412415161">
           <posattr x="-336.000000"
@@ -180,9 +180,9 @@
           <text tool="CPN Tools"
                 version="4.0.1">CANDIDATE</text>
         </type>
-        <initmark id="ID1412679880">
-          <posattr x="-576.500000"
-                   y="307.000000"/>
+        <initmark id="ID1412680958">
+          <posattr x="-572.500000"
+                   y="-63.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -192,106 +192,48 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">1`(101,692,65,&quot;BWP&quot;,&quot;No&quot;)++
-1`(102,657,65,&quot;BWP&quot;,&quot;No&quot;)++
-1`(103,744,62,&quot;BWP&quot;,&quot;No&quot;)++
-1`(104,540,38,&quot;BWP&quot;,&quot;No&quot;)++
-1`(105,601,55,&quot;BWP&quot;,&quot;No&quot;)++
-1`(106,784,54,&quot;BWP&quot;,&quot;No&quot;)++
-1`(107,695,50,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(108,926,61,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(109,775,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(110,574,44,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(111,695,58,&quot;BWP&quot;,&quot;No&quot;)++
-1`(112,649,53,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(113,738,62,&quot;BWP&quot;,&quot;No&quot;)++
-1`(114,812,49,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(115,752,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(116,879,48,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(117,726,61,&quot;BWP&quot;,&quot;No&quot;)++
-1`(118,615,47,&quot;BWP&quot;,&quot;No&quot;)++
-1`(119,828,51,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(120,529,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(121,711,57,&quot;BWP&quot;,&quot;No&quot;)++
-1`(122,758,40,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(123,798,71,&quot;BWP&quot;,&quot;No&quot;)++
-1`(124,543,45,&quot;BWP&quot;,&quot;No&quot;)++
-1`(125,764,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(126,733,51,&quot;BWP&quot;,&quot;No&quot;)++
-1`(127,600,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(128,825,67,&quot;BWP&quot;,&quot;No&quot;)++
-1`(129,618,46,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(130,777,45,&quot;BWP&quot;,&quot;No&quot;)++
-1`(131,713,18,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(132,867,59,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(133,831,57,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(134,551,49,&quot;BWP&quot;,&quot;No&quot;)++
-1`(135,724,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(136,718,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(137,797,49,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(138,792,30,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(139,780,55,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(140,815,46,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(141,833,54,&quot;BWP&quot;,&quot;No&quot;)++
-1`(142,677,43,&quot;BWP&quot;,&quot;No&quot;)++
-1`(143,758,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(144,561,50,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(145,795,59,&quot;BWP&quot;,&quot;No&quot;)++
-1`(146,378,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(147,707,49,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(148,648,51,&quot;BWP&quot;,&quot;No&quot;)++
-1`(149,894,64,&quot;OPEN&quot;,&quot;Yes&quot;)++
-1`(150,791,57,&quot;BWP&quot;,&quot;No&quot;)++
-1`(151,633,19,&quot;BWP&quot;,&quot;No&quot;)++
-1`(152,600,44,&quot;BWP&quot;,&quot;No&quot;)++
-1`(153,570,62,&quot;BWP&quot;,&quot;No&quot;)++
-1`(154,801,44,&quot;BWP&quot;,&quot;No&quot;)++
-1`(155,636,52,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(156,884,60,&quot;BWP&quot;,&quot;Yes&quot;)++
-1`(157,695,41,&quot;BWP&quot;,&quot;No&quot;)++
-1`(158,847,43,&quot;BWP&quot;,&quot;No&quot;)++
-1`(159,659,51,&quot;BWP&quot;,&quot;No&quot;)++
-1`(160,604,50,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(161,438,33,&quot;BWP&quot;,&quot;No&quot;)++
-1`(162,754,47,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(163,842,52,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(164,700,0,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(165,589,56,&quot;BWP&quot;,&quot;No&quot;)++
-1`(166,635,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(167,933,25,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(168,728,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(169,777,43,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(170,657,0,&quot;BWP&quot;,&quot;No&quot;)++
-1`(171,622,55,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(172,761,54,&quot;BWP&quot;,&quot;No&quot;)++
-1`(173,754,52,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(174,767,54,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(175,583,42,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(176,664,51,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(177,772,53,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(178,668,48,&quot;BWP&quot;,&quot;No&quot;)++
-1`(179,640,52,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(180,720,57,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(181,792,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(182,784,40,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(183,610,52,&quot;BWP&quot;,&quot;No&quot;)++
-1`(184,756,50,&quot;BWP&quot;,&quot;No&quot;)++
-1`(185,741,54,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(186,598,40,&quot;BWP&quot;,&quot;No&quot;)++
-1`(187,743,50,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(188,613,48,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(189,532,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(190,760,77,&quot;BWP&quot;,&quot;No&quot;)++
-1`(191,613,46,&quot;BWP&quot;,&quot;No&quot;)++
-1`(192,598,40,&quot;BWP&quot;,&quot;No&quot;)++
-1`(193,787,62,&quot;BWP&quot;,&quot;No&quot;)++
-1`(194,804,60,&quot;BWP&quot;,&quot;No&quot;)++
-1`(195,673,50,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(196,845,53,&quot;BWP&quot;,&quot;No&quot;)++
-1`(197,927,68,&quot;OPEN&quot;,&quot;Yes&quot;)++
-1`(198,800,55,&quot;OPEN&quot;,&quot;No&quot;)++
-1`(199,763,19,&quot;BWP&quot;,&quot;No&quot;)++
-1`(200,565,52,&quot;OPEN&quot;,&quot;No&quot;)</text>
+                version="4.0.1">1`(301,542,40,&quot;BWP&quot;,&quot;No&quot;)++
+1`(302,856,64,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(303,610,52,&quot;BWP&quot;,&quot;No&quot;)++
+1`(304,756,50,&quot;BWP&quot;,&quot;No&quot;)++
+1`(305,823,63,&quot;BWP&quot;,&quot;No&quot;)++
+1`(306,791,59,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(307,711,0,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(308,662,50,&quot;BWP&quot;,&quot;No&quot;)++
+1`(309,801,55,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(310,536,73,&quot;BWP&quot;,&quot;No&quot;)++
+1`(311,767,18,&quot;BWP&quot;,&quot;No&quot;)++
+1`(312,679,42,&quot;BWP&quot;,&quot;No&quot;)++
+1`(313,724,50,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(314,733,54,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(315,627,51,&quot;BWP&quot;,&quot;No&quot;)++
+1`(316,659,51,&quot;BWP&quot;,&quot;No&quot;)++
+1`(317,854,47,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(318,950,70,&quot;OPEN&quot;,&quot;Yes&quot;)++
+1`(319,778,52,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(320,796,64,&quot;BWP&quot;,&quot;No&quot;)++
+1`(321,825,67,&quot;BWP&quot;,&quot;No&quot;)++
+1`(322,804,76,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(323,792,30,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(324,797,49,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(325,776,54,&quot;BWP&quot;,&quot;No&quot;)++
+1`(326,680,40,&quot;BWP&quot;,&quot;No&quot;)++
+1`(327,780,44,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(328,922,66,&quot;BWP&quot;,&quot;Yes&quot;)++
+1`(329,619,49,&quot;BWP&quot;,&quot;No&quot;)++
+1`(330,703,51,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(331,670,45,&quot;BWP&quot;,&quot;No&quot;)++
+1`(332,723,53,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(333,693,45,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(334,556,48,&quot;BWP&quot;,&quot;No&quot;)++
+1`(335,879,48,&quot;BWP&quot;,&quot;Yes&quot;)++
+1`(336,726,61,&quot;BWP&quot;,&quot;No&quot;)++
+1`(337,903,69,&quot;OPEN&quot;,&quot;No&quot;)++
+1`(338,860,44,&quot;BWP&quot;,&quot;No&quot;)++
+1`(339,838,57,&quot;BWP&quot;,&quot;No&quot;)++
+1`(340,576,57,&quot;BWP&quot;,&quot;No&quot;)++
+1`(341,726,53,&quot;BWP&quot;,&quot;No&quot;)++
+1`(342,504,54,&quot;BWP&quot;,&quot;No&quot;)</text>
         </initmark>
       </place>
       <place id="ID1412440080">
@@ -1422,7 +1364,17 @@
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
+      <option name="extensions.10006.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
       <option name="extensions.10003.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
+      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1432,17 +1384,7 @@
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10006.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
       <option name="extensions.10005.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
-      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -1651,8 +1593,8 @@
                  height="601">
         <sheets>
           <cpnsheet id="ID2215"
-                    panx="-790.000000"
-                    pany="-391.000000"
+                    panx="-766.000000"
+                    pany="-401.000000"
                     zoom="1.000000"
                     instance="ID2149">
             <zorder>
